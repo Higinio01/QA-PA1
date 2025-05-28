@@ -1,3 +1,7 @@
+Integrantes:
+Sara Contreras 1014-4230
+Higinio Santos 1014-2505
+
 Cómo ejecutar las pruebas
 
 1. Desde IntelliJ IDEA
